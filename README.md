@@ -43,11 +43,16 @@ matters, and it is rarely handled correctly.
 
 ## Example output
 
-*(Charts show levels that were already in place before price reacted to them.)*
+Levels are frozen: they were already in place before price reacted to them.
 
-![Example 1](examples/example_01.png)
-![Example 2](examples/example_02.png)
-![Example 3](examples/example_03.png)
+**BBAR — 1 year**
+![BBAR 1 year](examples/bbar_2026-06-26.png)
+
+**BBAR — 3-month zoom**
+![BBAR 3 months](examples/bbar_3m_2026-06-26.png)
+
+**How the levels held (4-frame sequence)**
+![BBAR sequence](examples/bbar_secuencia.gif)
 
 > Drop your exported chart PNGs into `examples/` and update the paths above.
 
