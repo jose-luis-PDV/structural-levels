@@ -1,0 +1,17 @@
+# Datos y base (nunca subir)
+*.db
+*.sqlite
+*.csv
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
